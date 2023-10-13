@@ -1,0 +1,65 @@
+.earningChild {
+  position: absolute;
+  top: -50px;
+  left: -60px;
+  border-radius: var(--br-11xl);
+  width: 1088px;
+  height: 271px;
+}
+.earning,
+.searchChild {
+  position: absolute;
+  top: 101px;
+  left: 377px;
+  width: 968px;
+  height: 151px;
+}
+.searchChild {
+  top: 0;
+  left: 0;
+  border-radius: 12px;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 60px rgba(226, 236, 249, 0.5);
+  width: 216px;
+  height: 38px;
+}
+.search1 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  letter-spacing: -0.01em;
+}
+.search1Icon {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.search {
+  position: absolute;
+  top: 40px;
+  left: 1129px;
+  width: 216px;
+  height: 38px;
+}
+.helloEvano {
+  position: absolute;
+  top: 41px;
+  left: 377px;
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.dashboard {
+  position: relative;
+  background-color: #fafbff;
+  width: 100%;
+  height: 1198px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-silver);
+  font-family: var(--font-poppins);
+}
