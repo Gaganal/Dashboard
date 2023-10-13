@@ -1,0 +1,246 @@
+.productChild {
+  position: absolute;
+  top: -50px;
+  left: -60px;
+  border-radius: var(--br-11xl);
+  width: 1088px;
+  height: 562px;
+}
+.inStock,
+.productSell {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.productSell {
+  top: 22px;
+  left: 38px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.inStock {
+  top: 16px;
+  left: 506px;
+  font-size: var(--font-size-sm);
+}
+.div {
+  top: 16px;
+  left: 664px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.abstract3d,
+.div,
+.div1,
+.loremIpsumDolor {
+  position: absolute;
+  letter-spacing: -0.01em;
+}
+.div1 {
+  top: 16px;
+  left: 815px;
+}
+.abstract3d,
+.loremIpsumDolor {
+  left: 116px;
+}
+.abstract3d {
+  top: 4px;
+  font-weight: 600;
+}
+.loremIpsumDolor {
+  top: 35px;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightslategray);
+}
+.unsplashwh2fhl0vEoIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  width: 90px;
+  height: 56px;
+  object-fit: cover;
+}
+.abstract3dParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 441px;
+  height: 56px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.inStockParent {
+  position: absolute;
+  top: 138px;
+  left: 38px;
+  width: 835px;
+  height: 56px;
+  color: var(--color-darkslategray-200);
+}
+.sarphensIllustration {
+  position: absolute;
+  top: 4px;
+  left: 116px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+.inStock1 {
+  left: 506px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-200);
+}
+.div2,
+.div3,
+.inStock1 {
+  position: absolute;
+  top: 16px;
+  letter-spacing: -0.01em;
+}
+.div2 {
+  left: 664px;
+  font-weight: 500;
+}
+.div3 {
+  left: 815px;
+  color: var(--color-darkslategray-200);
+}
+.collabIllustrationParent,
+.landingPage3dMaxParent,
+.sarphensIllustrationParent {
+  position: absolute;
+  top: 218px;
+  left: 38px;
+  width: 835px;
+  height: 56px;
+}
+.collabIllustrationParent,
+.landingPage3dMaxParent {
+  top: 298px;
+}
+.collabIllustrationParent {
+  top: 378px;
+}
+.price,
+.productName,
+.stock,
+.totalSales {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.price,
+.stock,
+.totalSales {
+  left: 524px;
+}
+.price,
+.totalSales {
+  left: 677px;
+}
+.totalSales {
+  left: 787px;
+}
+.groupChild,
+.productNameParent {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  width: 863px;
+  height: 21px;
+}
+.groupChild {
+  top: 34.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 969px;
+  height: 1px;
+}
+.groupParent {
+  position: absolute;
+  top: 83px;
+  left: 0;
+  width: 968px;
+  height: 35px;
+  font-size: var(--font-size-sm);
+  color: var(--color-silver);
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-ghostwhite-100);
+  width: 216px;
+  height: 38px;
+}
+.search {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  letter-spacing: -0.01em;
+}
+.search1Icon {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleParent {
+  position: absolute;
+  top: 24px;
+  left: 544px;
+  width: 216px;
+  height: 38px;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver);
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-ghostwhite-100);
+  width: 135px;
+  height: 38px;
+}
+.chevronDown1Icon {
+  position: absolute;
+  top: 7px;
+  left: 100px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.last30Days {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  letter-spacing: -0.01em;
+}
+.product,
+.rectangleGroup {
+  position: absolute;
+  top: 24px;
+  left: 785px;
+  width: 135px;
+  height: 38px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-200);
+}
+.product {
+  top: 686px;
+  left: 377px;
+  width: 968px;
+  height: 472px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

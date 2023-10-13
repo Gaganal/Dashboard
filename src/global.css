@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-7xl: 26px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-xs-9: 11.9px;
+  --font-size-4xl-8: 23.8px;
+  --font-size-5xs: 8px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-ghostwhite-100: #f9fbff;
+  --color-ghostwhite-200: #f1effb;
+  --color-black: #000;
+  --color-gray-100: #838383;
+  --color-gray-200: #7e7e7e;
+  --color-gray-300: #757575;
+  --color-mediumblue: #4925e9;
+  --color-white: #fff;
+  --color-lightslategray: #9197b3;
+  --color-blueviolet: #5932ea;
+  --color-silver: #b5b7c0;
+  --color-whitesmoke-100: #f0f0f0;
+  --color-whitesmoke-200: #eee;
+  --color-darkslategray-100: #333;
+  --color-darkslategray-200: #313131;
+  --color-darkslategray-300: #292d32;
+  --color-darkgray: #acacac;
+  --color-lavender: #f2efff;
+  --color-dimgray: #4f4f4f;
+  --color-forestgreen: #00ac4f;
+  --color-crimson: #d0004b;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-5xs: 8px;
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+}

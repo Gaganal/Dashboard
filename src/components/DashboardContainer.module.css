@@ -1,0 +1,226 @@
+.sideMenuChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 10px 60px rgba(226, 236, 249, 0.5);
+  width: 306px;
+  height: 1198px;
+}
+.sideMenuItem {
+  position: absolute;
+  top: 128px;
+  left: 28px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-blueviolet);
+  width: 250px;
+  height: 46px;
+}
+.icon24OutlineKeySqua {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard {
+  position: absolute;
+  top: 1px;
+  left: 38px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.listMenu {
+  position: absolute;
+  top: 139px;
+  left: 39px;
+  width: 116px;
+  height: 24px;
+  color: var(--color-white);
+}
+.product {
+  position: absolute;
+  top: 2px;
+  left: 38px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.chevronRight2Icon {
+  position: absolute;
+  top: 4px;
+  left: 215px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.listMenu1 {
+  position: absolute;
+  top: 203px;
+  left: 39px;
+  width: 231px;
+  height: 24px;
+}
+.listMenu2,
+.listMenu3,
+.listMenu4,
+.listMenu5,
+.sideMenuInner {
+  position: absolute;
+  top: 267px;
+  left: 39px;
+  width: 231px;
+  height: 24px;
+}
+.listMenu3,
+.listMenu4,
+.listMenu5,
+.sideMenuInner {
+  top: 331px;
+}
+.listMenu4,
+.listMenu5,
+.sideMenuInner {
+  top: 395px;
+}
+.listMenu5,
+.sideMenuInner {
+  top: 459px;
+}
+.sideMenuInner {
+  top: 1080px;
+  left: 28px;
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+.evano,
+.projectManager {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.evano {
+  top: 0;
+  font-weight: 500;
+}
+.projectManager {
+  top: 20px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-300);
+}
+.evanoParent {
+  position: absolute;
+  top: 1082px;
+  left: 82px;
+  width: 101px;
+  height: 38px;
+  color: var(--color-black);
+}
+.chevronDown2Icon {
+  position: absolute;
+  top: 1089px;
+  left: 254px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.accessProChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background: linear-gradient(107.91deg, #eaabf0, #4623e9);
+  width: 250px;
+  height: 150px;
+}
+.upgradeToPro {
+  position: absolute;
+  top: 26px;
+  left: 34px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+  display: inline-block;
+  width: 183px;
+}
+.ctaChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 4px rgba(79, 42, 234, 0.17);
+  width: 203px;
+  height: 40px;
+}
+.getProNow {
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.accessPro,
+.cta {
+  position: absolute;
+  top: 88px;
+  left: 24px;
+  width: 203px;
+  height: 40px;
+  color: var(--color-mediumblue);
+}
+.accessPro {
+  top: 884px;
+  left: 28px;
+  width: 250px;
+  height: 150px;
+  text-align: center;
+  color: var(--color-white);
+}
+.dashboard1 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+.setting1Icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.dashboardParent {
+  top: 36px;
+  left: 28px;
+  width: 195px;
+  height: 39px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+}
+.dashboardParent,
+.sideMenu,
+.v01 {
+  position: absolute;
+}
+.v01 {
+  top: 54px;
+  left: 227px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.sideMenu {
+  top: 0;
+  left: 0;
+  width: 306px;
+  height: 1198px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightslategray);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,62 @@
+.earning {
+  top: 0;
+  left: 104px;
+  letter-spacing: -0.01em;
+}
+.earning,
+.groupChild,
+.k {
+  position: absolute;
+}
+.k {
+  top: 25px;
+  left: 104px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  line-height: 100%;
+  font-weight: 600;
+  color: var(--color-darkslategray-100);
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  width: 84px;
+  height: 84px;
+}
+.thisMonth1 {
+  color: var(--color-darkslategray-300);
+}
+.thisMonth {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  letter-spacing: -0.01em;
+}
+.arrowUp1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.earningParent,
+.thisMonthParent {
+  position: absolute;
+  top: 63px;
+  left: 104px;
+  width: 124px;
+  height: 20px;
+  font-size: var(--font-size-xs);
+  color: var(--color-forestgreen);
+}
+.earningParent {
+  top: 1px;
+  left: 0;
+  width: 228px;
+  height: 84px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}
